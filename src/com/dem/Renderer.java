@@ -1,4 +1,4 @@
-package dem;
+package com.dem;
 
 import javax.media.opengl.GL;
 import com.sun.opengl.util.GLUT;

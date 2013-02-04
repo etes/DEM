@@ -1,4 +1,4 @@
-package dem;
+package com.dem;
 
 /**
  * (c) Ermias B. Tesfamariam 2010
