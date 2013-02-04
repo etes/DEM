@@ -1,6 +1,11 @@
 package dem;
 
-
+/**
+ * (c) Ermias B. Tesfamariam 2010
+ *
+ * @author Ermias
+ * @since 09:01:39 - 21.03.2010
+ */
 public class DEM {
 
 	//number of rows in the DEM xy plane

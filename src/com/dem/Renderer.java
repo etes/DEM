@@ -6,7 +6,10 @@ import com.sun.opengl.util.GLUT;
 import openglwindow.OpenGLWindow;
 
 /**
- * @ Ermias Beyene
+ * (c) Ermias B. Tesfamariam 2010
+ *
+ * @author Ermias
+ * @since 09:01:39 - 21.03.2010
  */
 public class Renderer extends OpenGLWindow {
 	private DEM dem;
