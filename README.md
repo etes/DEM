@@ -1,7 +1,6 @@
-
 # DEM
 
-OpenGL 3D Digital Elevation Model viewer
+OpenGL 3D Digital Elevation viewer
 
 About the application
 ===============
