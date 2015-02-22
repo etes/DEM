@@ -1,0 +1,14 @@
+file_title             = BLACK EARTH, WI
+data_format            = ascii
+map_projection         = UTM Zone 16N
+ellipsoid              = NAD83
+left_map_x             = 276300
+lower_map_y            = 4778042
+right_map_x            = 286905
+upper_map_y            = 4792251
+number_of_rows         = 475
+number_of_columns      = 353
+elev_m_unit            = meters
+elev_m_minimum         = 221
+elev_m_maximum         = 381
+elev_m_missing_flag    = -32767
